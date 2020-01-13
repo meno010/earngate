@@ -1,8 +1,8 @@
 {
   "title": "Stackbit Azimuth Theme",
-  "palette": "green",
+  "palette": "orange",
   "header": {
-    "title": "Azimuth",
+    "title": "Our Clients website",
     "logo_img": "images/logo.png",
     "has_nav": true,
     "menu": {
@@ -19,7 +19,7 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
+    "tagline": "SaaS theme by Stackbit go",
     "logo_img": "images/logo_alt.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
